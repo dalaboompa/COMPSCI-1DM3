@@ -1,4 +1,4 @@
-# COMPSCI-1DM3
+# COMPSCI-1DM3 (Winter 2022) 
 
 Repo for assignments. 
 
