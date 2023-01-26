@@ -2,7 +2,7 @@
 
 Repo for assignments. 
 
-All solutions are not guaranteed to be completely correct. 
+All solutions are not guaranteed to be correct. 
 
 # Credits
 
