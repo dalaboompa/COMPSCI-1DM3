@@ -3,7 +3,3 @@
 Repo for assignments. 
 
 All solutions are not guaranteed to be correct. 
-
-# Credits
-
-Bozhi Zhang, Xin Huang, and Zitong Gu
